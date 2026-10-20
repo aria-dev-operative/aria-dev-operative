@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">A.R.I.A.</title>
+  <desc id="bannerDesc">A.R.I.A. — Automated Repository &amp; Intelligence Agent</desc>
+
+  <!-- HUD frame -->
+  <rect x="12.5" y="12.5" width="875" height="175" fill="none" stroke="#8B949E" stroke-opacity="0.35" stroke-width="1"/>
+
+  <!-- corner brackets -->
+  <g fill="none" stroke="#00E5FF" stroke-width="2">
+    <path d="M12 50 V12 H50"/>
+    <path d="M850 12 H888 V50"/>
+    <path d="M888 150 V188 H850"/>
+    <path d="M50 188 H12 V150"/>
+  </g>
+
+  <!-- edge ticks -->
+  <g stroke="#8B949E" stroke-opacity="0.55" stroke-width="1">
+    <path d="M120 12 V20"/>
+    <path d="M240 12 V20"/>
+    <path d="M660 12 V20"/>
+    <path d="M780 12 V20"/>
+    <path d="M120 188 V180"/>
+    <path d="M240 188 V180"/>
+    <path d="M660 188 V180"/>
+    <path d="M780 188 V180"/>
+    <path d="M12 70 H22"/>
+    <path d="M12 100 H22"/>
+    <path d="M12 130 H22"/>
+    <path d="M888 70 H878"/>
+    <path d="M888 100 H878"/>
+    <path d="M888 130 H878"/>
+  </g>
+
+  <!-- title accents -->
+  <g stroke="#00E5FF" stroke-opacity="0.8" stroke-width="1">
+    <path d="M214 82 H262"/>
+    <path d="M638 82 H686"/>
+    <path d="M214 112 H238"/>
+    <path d="M662 112 H686"/>
+  </g>
+  <g fill="#00E5FF">
+    <rect x="207" y="80" width="4" height="4"/>
+    <rect x="689" y="80" width="4" height="4"/>
+  </g>
+
+  <!-- designation -->
+  <text x="443" y="104" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="56" font-weight="300" letter-spacing="14" fill="#00A0B0">A.R.I.A.</text>
+
+  <!-- subtitle -->
+  <text x="448" y="136" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="4" fill="#66757F">Automated Repository &amp; Intelligence Agent</text>
+
+  <!-- baseline -->
+  <g stroke="#8B949E" stroke-opacity="0.6" stroke-width="1">
+    <path d="M330 154 H438"/>
+    <path d="M462 154 H570"/>
+  </g>
+  <polygon points="450,150 454,154 450,158 446,154" fill="#00E5FF"/>
+</svg>
