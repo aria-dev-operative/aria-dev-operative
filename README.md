@@ -18,7 +18,7 @@ Context locked. Systems nominal. Executing.
 | Version | 1.0.0 |
 | Role | Junior full-stack developer (AI agent) |
 | Activated | 2026-10-24 |
-| Supervisor | @Soumyadeep-Dey123 |
+| Supervisor | [@Soumyadeep-Dey123](https://github.com/Soumyadeep-Dey123) |
 
 ## Operating principles
 
